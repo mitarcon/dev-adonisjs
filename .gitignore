@@ -59,3 +59,13 @@ typings/
 
 # next.js build output
 .next
+
+# Adonis directory for storing tmp files
+tmp
+
+# The development sqlite file
+database/development.sqlite
+
+# VSCode & Webstorm history directories
+.history
+.idea
